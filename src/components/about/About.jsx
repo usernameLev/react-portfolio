@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-          I am a young developer from Toulouse, France, passionate about web development and design, currently working with reactjs.
+          I'm a young developer from Toulouse, France, passionate about web development and design, currently working with reactjs.
           </p>
 
           <a className='btn btn-primary' href="#contact">Let's Talk</a>
